@@ -37,7 +37,7 @@ dev_dependencies:
 flutter_icons:
   android: true 
   ios: true
-  image_path: ""
+  image_path: "assets/iwj.png"
 # flutter pub run flutter_launcher_icons:main
 
 
